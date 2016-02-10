@@ -1,0 +1,10 @@
+﻿{
+  "name": "gps_server",
+  "version": "0.1.1",
+  "author": "Tomasz Durałek",
+  "license": "BSD",
+  "devDependencies": {
+    "crc": "^3.2.1",
+    "mysql": "^2.5.4"
+  }
+}
